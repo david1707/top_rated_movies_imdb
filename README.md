@@ -12,7 +12,7 @@ git clone https://github.com/david1707/top_rated_movies_imdb
 
 ### Usage
 
-Navigate to the main folter, then run it with:
+Navigate to the main folder, then run it with:
 ```
 scrapy crawl get_movies
 ```
